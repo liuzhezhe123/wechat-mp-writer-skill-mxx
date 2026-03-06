@@ -16,20 +16,6 @@
 
 ## 安装方法
 
-### 方法一：通过 ClawHub 安装（推荐）
-
-```bash
-openclaw skill install github:muxiongxiong/wechat-mp-writer-skill-mxx
-```
-
-### 方法二：手动安装
-
-1. 克隆仓库到本地
-```bash
-cd ~/.openclaw/skills
-git clone https://github.com/muxiongxiong/wechat-mp-writer-skill-mxx.git wechat-mp-writer
-```
-
 2. 重启 OpenClaw 或重新加载技能
 
 ## 使用方法
